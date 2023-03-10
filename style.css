@@ -1,0 +1,56 @@
+body{
+background-image:url("wi.jpg");
+background-size:cover;
+}
+
+
+.logo-img{
+display:block;
+width:300px;
+height:100px;
+margin-top: 175px;
+margin-left: auto;
+margin-right: auto;
+}
+#search-input {
+display:block;
+width:550px;
+margin-left: auto;
+margin-right: auto;
+margin-top:20px;
+height: 45px;
+ padding-top:10px;
+ padding-bottom:10px;
+ padding-left: 30px;
+ padding-right: 30px;
+ border: 1px solid #dfe1e5;
+border-radius:30px;
+font-size:15px;
+outline:none;
+}
+.btn a{
+text-decoration:inherit;
+}
+.btn a:hover{
+text-decoration:underline;
+}
+.btn{
+display:flex;
+justify-content:center;
+
+}
+.btn{
+margin-left:50px;
+margin-right:50px;
+margin-top:10px;
+border:none;
+font:blod;
+background:#dfele5;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:16px;
+padding-right:16px;
+border-radius:4px;
+font-size:14px;
+
+}
